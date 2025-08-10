@@ -1,0 +1,4 @@
+Exception occured while clicking 'login': Error: locator.click: Unexpected token ")" while parsing css selector "a:has-text("Login"))". Did you mean to CSS.escape it?
+Call log:
+  - waiting for a:has-text("Login"))
+
